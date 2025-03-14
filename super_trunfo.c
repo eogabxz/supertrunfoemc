@@ -1,3 +1,6 @@
+//estava desenvolvendo o código e me deparei que não estava no repositório,
+//estou enviando novamente o trabalho, mas agora no repositório.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
